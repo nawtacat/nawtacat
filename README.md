@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nawtacat
 - 👀 I’m interested in math, physics and coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on an ai project
+- 💞️ I’m looking for collaborating on an ai project
 - 📫 How to reach me, ig - nawtacat, twitter - axel_notacat
 
 <!---
